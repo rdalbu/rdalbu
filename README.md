@@ -76,7 +76,7 @@ I also build optimized gameplay systems, features, and tools for **FiveM and Red
 ## 📬 Entre em Contato / Get in Touch
 
 - Aberto a colaborações em **FiveM**, **RedM**, IoT e projetos back-end  
-- Email: **seuemail@exemplo.com**  
+- Email: **ramonalbu.dev@gmail.com**  
 - Sempre disposto a aprender, evoluir e criar novas soluções  
 
 ---
