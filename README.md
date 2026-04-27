@@ -1,84 +1,68 @@
-# 🧑🏻‍💻 Ramon Albuquerque – Back-End, Embedded & Game Server Developer
+# Ramon Albuquerque
+**Back-End Developer | Embedded Systems & IoT | Game Server Developer (FiveM/RedM)**
 
-_“Unindo hardware, software e criatividade para transformar ideias em soluções reais.”_
+> Desenvolvedor focado em integrar hardware, software e gameplay para entregar soluções escaláveis e de alta performance.
 
 ---
 
 ## 🇧🇷 Sobre mim
 
-Olá! Meu nome é **Ramon Albuquerque**, tenho 24 anos e sou estudante de **Engenharia da Computação**. Atuo como **desenvolvedor back-end**, trabalho com **sistemas embarcados e IoT**, e também desenvolvo **scripts e sistemas personalizados para FiveM e RedM**.
+Sou **Ramon Albuquerque**, 25 anos, estudante de **Engenharia da Computação** e desenvolvedor **back-end** com atuação complementar em **sistemas embarcados, IoT e desenvolvimento para servidores FiveM/RedM**.
 
-Gosto de criar soluções que conectam o mundo físico ao digital — desde APIs e automações até dispositivos com sensores como ESP32, MPU6050 e HW870. Me aprofundo constantemente em **Java**, **Node.js**, microcontroladores e integrações avançadas entre hardware e software.
+Trabalho na construção de APIs, automações, integrações e dispositivos conectados, com foco em código limpo, arquitetura bem definida e desempenho. Tenho experiência prática com microcontroladores (ESP32, MPU6050, HW870), processamento de sinais e comunicação entre dispositivos físicos e serviços web.
 
-Também construo sistemas de gameplay, mecânicas, economias, automações administrativas e otimizações para servidores **FiveM e RedM**, sempre focando em desempenho e boas práticas.
-
----
+No ecossistema FiveM/RedM, desenvolvo mecânicas de gameplay, sistemas econômicos, ferramentas administrativas e otimizações de performance para servidores em produção.
 
 ## 🇺🇸 About me
 
-Hi! I’m **Ramon Albuquerque**, a 24-year-old **Computer Engineering student** and **Back-End Developer**. I work with embedded systems, IoT devices, and I also build custom **FiveM and RedM scripts** and gameplay systems.
+I'm **Ramon Albuquerque**, a 25-year-old **Computer Engineering student** and **Back-End Developer**, with complementary work in **embedded systems, IoT, and FiveM/RedM server development**.
 
-I enjoy creating solutions that merge hardware and software — from REST APIs and automation tools to ESP32-based devices and real-time sensor processing. My main stack includes **Java**, **Node.js**, Lua (FiveM/RedM), and microcontroller programming.
+I build APIs, automation tools, integrations, and connected devices, focusing on clean code, solid architecture, and performance. I have hands-on experience with microcontrollers (ESP32, MPU6050, HW870), signal processing, and bridging physical devices with web services.
 
-I also build optimized gameplay systems, features, and tools for **FiveM and RedM**, focusing on performance, immersion, and clean code.
-
----
-
-## 🛠️ Minhas Habilidades / My Skills
-
-### 🚀 Desenvolvimento Back-End
-- Desenvolvimento de APIs, integrações e automações
-- Código limpo, boas práticas e arquitetura organizada
-- Node.js, Java e ferramentas para serviços escaláveis
-
-### 🎮 Desenvolvimento FiveM & RedM
-- Criação de scripts avançados em **Lua** e **JavaScript**
-- Integração com bancos de dados, inventários e sistemas econômicos
-- Otimização de desempenho para servidores ativos
-- Mecânicas personalizadas, automações e ferramentas administrativas
-
-### 🔧 Sistemas Embarcados & IoT
-- Projetos com ESP32, sensores e eletrônica básica
-- Processamento digital e filtragem de sinais
-- Integração entre hardware e APIs/web services
+For FiveM/RedM, I develop gameplay mechanics, economy systems, admin tooling, and performance optimizations for live servers.
 
 ---
 
-## 🤖 Projetos Notáveis
+## Áreas de Atuação / Areas of Expertise
 
-- **Pulseira de monitoramento para epilepsia**  
-  Dispositivo usando ESP32, MPU6050 e HW870 para análise e detecção em tempo real
+**Back-End Development**
+Desenvolvimento de APIs REST, microsserviços, automações e integrações com foco em escalabilidade, manutenibilidade e boas práticas de arquitetura.
 
-- **Chatbot inteligente para clínicas**  
-  Desenvolvimento usando Node.js + Brain.js para automação de atendimento
+**Game Server Development (FiveM / RedM)**
+Scripts avançados em Lua e JavaScript, integração com bancos de dados, sistemas de inventário e economia, mecânicas personalizadas e otimização de performance para servidores ativos.
 
-- **Sistemas personalizados para FiveM e RedM**  
-  Scripts imersivos, otimizações e integrações avançadas
-
----
-
-## ⚙️ Tecnologias que utilizo / Technologies I Work With
-
-**Back-End:**  
-`Java` • `Node.js` • `Express` • `REST APIs`
-
-**Game Development:**  
-`Lua (FiveM/RedM)` • `JavaScript` • `MySQL`
-
-**Embedded / IoT:**  
-`ESP32` • `Arduino` • `MPU6050` • `HW870` • `Eletrônica básica`
-
-**Outros:**  
-`Git/GitHub` • `Linux`
+**Embedded Systems & IoT**
+Projetos com ESP32 e sensores, processamento digital, filtragem de sinais e integração entre dispositivos físicos e APIs.
 
 ---
 
-## 📬 Entre em Contato / Get in Touch
+## Projetos em Destaque / Featured Projects
 
-- Aberto a colaborações em **FiveM**, **RedM**, IoT e projetos back-end  
-- Email: **ramonalbu.dev@gmail.com**  
-- Sempre disposto a aprender, evoluir e criar novas soluções  
+Possuo projetos relevantes desenvolvidos em repositórios privados, abrangendo áreas como **Inteligência Artificial** e **aplicações web**. Detalhes técnicos e demonstrações podem ser compartilhados sob solicitação, mediante alinhamento prévio.
+
+> *Featured projects are maintained in private repositories. Technical details and demos available upon request.*
 
 ---
 
-🟧 _“Tecnologia conecta mundos — do hardware ao jogo, da ideia ao código.”_
+## Stack Técnico / Tech Stack
+
+**Linguagens:** `Java` • `Go` • `JavaScript / Node.js` • `Lua` • `C/C++ (Arduino)`
+
+**Back-End:** `Express` • `REST APIs` • `Go (serviços e ferramentas)` • `MySQL`
+
+**Embedded / IoT:** `ESP32` • `Arduino` • `MPU6050` • `HW870` • `Eletrônica aplicada`
+
+**Ferramentas:** `Git / GitHub` • `Linux`
+
+---
+
+## Contato / Contact
+
+Aberto a colaborações em projetos de **back-end, IoT, FiveM e RedM**.
+
+📧 **ramonalbu.dev@gmail.com**
+🔗 **[github.com/rdalbu](https://github.com/rdalbu)**
+
+---
+
+> *"Tecnologia conecta mundos — do hardware ao jogo, da ideia ao código."*
